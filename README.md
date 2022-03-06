@@ -34,4 +34,9 @@
 [linkedin]: https://www.linkedin.com/in/divyam-talreja-27809b183
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyamtalreja&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamtalreja&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=divyamtalreja&" alt="divyamtalreja" /></p>
+
