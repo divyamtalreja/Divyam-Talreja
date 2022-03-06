@@ -33,3 +33,5 @@
 
 [linkedin]: https://www.linkedin.com/in/divyam-talreja-27809b183
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=divyamtalreja&show_icons=true&theme=radical" width="400"
