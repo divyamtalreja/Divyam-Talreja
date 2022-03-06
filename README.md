@@ -34,4 +34,4 @@
 [linkedin]: https://www.linkedin.com/in/divyam-talreja-27809b183
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyamtalreja&show_icons=true&theme=radical" width="400"
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyamtalreja&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
